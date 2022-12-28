@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dollar">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Euro">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yen">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAQAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rupee">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAACAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yuan">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAQAAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Currency">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAgAAAABAAAAAAAAAAAQACAAAQAAEAABgIAAAABA=</HashCode>
+      <FileName>Currency.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAFIlAAAAAAAAAAAAAUAAAAACGABAAAAAABCAAAAEA=</HashCode>
+      <FileName>Wallet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="currencyType" Collapsed="true">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Currency.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_0004_1">
+    <Position X="6.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACQAAAAABAAAAAAAAAAAAAAAAQAAAg=</HashCode>
+      <FileName>Currency.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

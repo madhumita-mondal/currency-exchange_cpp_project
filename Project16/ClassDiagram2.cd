@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Currency" Collapsed="true">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAgAAAARAAACAAAAAQQQASAAAQAAEAABgIAAACBA=</HashCode>
+      <FileName>Currency.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dollar">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Euro">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yen">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAQAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rupee">
+    <Position X="3" Y="3" Width="1.5" />
+    <InheritanceLine Type="Currency" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="8.312" Y="1.562" />
+        <Point X="8.312" Y="2.625" />
+        <Point X="3.75" Y="2.625" />
+        <Point X="3.75" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAACAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Yuan">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAQAAAAAA=</HashCode>
+      <FileName>CurrencyType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wallet" Collapsed="true">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAGIEAAAAAAAAAAAAAEAAAAACGAAAAAAAABCAAABEA=</HashCode>
+      <FileName>Wallet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="currencyType" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Currency.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_0002_1" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACQAAAAABAAAAAAAAAAAAAAAAQAAAg=</HashCode>
+      <FileName>Currency.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
